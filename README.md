@@ -1,3 +1,6 @@
+LIVE PROJECT :
+https://iot-ai-skill-trainin-c6uj.bolt.host
+CHECK THE ABOVE PROJECT
 📌 Project Overview
 
 The IoT & AI-Enabled Skill Training Equipment Monitoring System is an intelligent web-based platform designed to monitor, manage, and optimize the usage of skill training equipment in educational institutions, training centers, laboratories, and industrial workshops.
