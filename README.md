@@ -1,6 +1,7 @@
 LIVE PROJECT :
 
-https://iot-ai-skill-trainin-c6uj.bolt.host
+https://iot-ai-skill-trainin-c6uj.bolt.host 
+
 CHECK THE ABOVE PROJECT
 
 
